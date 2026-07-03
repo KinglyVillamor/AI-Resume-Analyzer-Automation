@@ -130,24 +130,6 @@ By leveraging AI-driven evaluation, recruiters can focus on interviewing qualifi
 
 ---
 
-## Screenshots
-
-### Workflow Automation
-Add screenshot of the n8n workflow.
-
-### AI Candidate Evaluation
-Add screenshot of the Google Gemini analysis output.
-
-### Candidate Database
-Add screenshot of the Google Sheets database.
-
-### Resume Repository
-Add screenshot of the Google Drive storage structure.
-
-### Automated Email Notifications
-Add screenshot of approval and rejection emails.
-
----
 
 ## Skills Demonstrated
 
